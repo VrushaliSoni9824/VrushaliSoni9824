@@ -2,7 +2,7 @@
 
 **Full Stack and Mobile Application Developer**
 
-An extremely motivated professional with over 3 years of experience specializing in React Native, React JS, Java, and Kotlin. Passionate about enhancing skills and experimenting with new technologies in real-time work environments.
+An extremely motivated professional with over 4 years of experience specializing in React Native, React JS, Java, and Kotlin. Passionate about enhancing skills and experimenting with new technologies in real-time work environments.
 
 ## Technical Skills
 
@@ -20,6 +20,7 @@ An extremely motivated professional with over 3 years of experience specializing
 - AI proctoring, TensorFlow, Google Sheets
 - [Staging](https://staginginterview.naskay.in/)
 - [Live](https://talentigo.ai/)
+- [Demo](https://youtu.be/2muVHD_za0o)
 
 ### Palgeo’s Geo Fencing App
 - Attendance via facial recognition, Geo-fencing
@@ -43,7 +44,7 @@ An extremely motivated professional with over 3 years of experience specializing
 
 ## Education
 
-- **Master of Science in Computing and Data Analytics** - Saint Mary’s University, Canada (Pursuing)
+- **Master of Science in Computing and Data Analytics** - Saint Mary’s University, Halifax, NS, Canada 
 - **Master in Computer Application** - UKA Tarsadia University, India (CGPA: 9.28, 2020)
 - **Bachelor in Computer Application** - Veer Narmad South Gujarat University, India (CGPA: 8.5, 2017)
 
@@ -55,15 +56,16 @@ An extremely motivated professional with over 3 years of experience specializing
 
 - **Truverus** (Halifax, Canada) - Full Stack Developer, Tech Lead (Internship since December 2023)
   - Leading development teams and managing CI/CD pipeline deployment.
+- **Infosys** - Senior Associate Consultant (1 Years)
 - **Naskay Technologies Pvt Ltd** - Full Stack Developer (2 Years)
-- **TJCG Pvt Ltd** - Software Developer (1.5 Years)
+- **TJCG Pvt Ltd** - Software Developer (2 Years)
 - **P5infosoft Pvt Ltd** - Software Developer (1 Year)
 
 ## Contact
 
 Feel free to reach out for collaboration or any inquiries!
 
-[LinkedIn](https://www.linkedin.com/in/vrushali-prajapati) | [Email](mailto:vrushali@example.com)
+[LinkedIn](https://www.linkedin.com/in/vrushali-prajapati) | [Email](mailto:sonivrushali1234@gmail.com)
 
 ---
 *Vrushali Prajapati*
