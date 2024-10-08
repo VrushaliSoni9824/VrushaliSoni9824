@@ -2,13 +2,18 @@
 
 **Full Stack and Mobile Application Developer**
 
-An extremely motivated professional with over 4 years of experience specializing in React Native, React JS, Java, and Kotlin. Passionate about enhancing skills and experimenting with new technologies in real-time work environments.
+Experienced Senior Mobile Application Developer with around 6 years of expertise in Android application
+development using Java and Kotlin. Demonstrated success in designing, developing, and optimizing high-quality,
+scalable Android applications with MVVM and Clean Architecture. Extensive experience in Agile environments,
+leading cross-functional teams, mentoring junior developers, and utilizing modern development practices.
+Expertise in test automation, CI/CD, and cloud technologies to deliver robust and high-performing mobile
+solutions. Successfully participated in the release of multiple apps to Google Play, with several live applications.
 
 ## Technical Skills
-
+- **Mobile Development:** Java, Kotlin, Android Studio, SDK, Kotlin Multiplatform Mobile (KMM), iOS, React Native
+- **Android Frameworks & Tools:** Jetpack, MVVM, Clean Architecture, MVI, Retrofit, OkHttp, Jetpack Compose, Coroutines, Dependency Injection (Dagger/Hilt)
 - **Frontend:** React Native, React JS
 - **Backend:** Node.js, PHP, ASP.NET MVC
-- **Mobile Development:** Android (Java, Kotlin), iOS, React Native
 - **Databases:** MySQL, MongoDB
 - **Cloud:** Azure, AWS
 - **Other:** Python, R, IoT, SEO, GIT
@@ -51,15 +56,6 @@ An extremely motivated professional with over 4 years of experience specializing
 ## Certifications
 
 - Certified App Developer - IIHT, Surat (A grade, 2018)
-
-## Work Experience
-
-- **Truverus** (Halifax, Canada) - Full Stack Developer, Tech Lead (Internship since December 2023)
-  - Leading development teams and managing CI/CD pipeline deployment.
-- **Infosys** - Senior Associate Consultant (1 Years)
-- **Naskay Technologies Pvt Ltd** - Full Stack Developer (2 Years)
-- **TJCG Pvt Ltd** - Software Developer (2 Years)
-- **P5infosoft Pvt Ltd** - Software Developer (1 Year)
 
 ## Contact
 
