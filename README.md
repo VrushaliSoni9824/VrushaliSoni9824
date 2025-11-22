@@ -11,7 +11,7 @@
 ---
 
 ## 👩🏻‍💻 About Me
-I am a **Senior Mobile Application Developer / Tech Lead** with 6+ years of experience building **enterprise-grade mobile applications** using:
+I am a **Senior Mobile Application Developer / Tech Lead** with 5+ years of experience building **enterprise-grade mobile applications** using:
 
 - **React Native**
 - **Native Android (Kotlin/Java)**
@@ -82,16 +82,7 @@ AI-powered remote interview system
 
 ---
 
-### ⭐ 4. Purie — Fresh Milk Delivery App  
-✔ Subscription billing  
-✔ Route tracking  
-✔ Payment integrations  
-📲 **Android:** https://play.google.com/store/search?q=purie  
-📲 **iOS:** https://apps.apple.com/in/app/purie/id1624882655  
-
----
-
-### ⭐ 5. Olympiad Practice App (Naskay)
+### ⭐ 4. Olympiad Practice App (Naskay)
 ✔ Competitive exam practice  
 ✔ Timed quizzes  
 ✔ Leaderboards  
@@ -115,9 +106,6 @@ AI-powered remote interview system
 
 ### 🔹 Nento POS  
 📲 https://play.google.com/store/apps/details?id=com.tjcg.nentopos  
-
-### 🔹 ESignKart  
-📲 https://play.google.com/store/apps/details?id=com.esignkart  
 
 ---
 
