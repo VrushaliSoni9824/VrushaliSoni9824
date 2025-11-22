@@ -66,6 +66,35 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 📲 **Android (Legacy):** https://play.google.com/store/apps/details?id=io.freightpath.driverapp&hl=en  
 📲 **iOS (Legacy):** https://apps.apple.com/ca/app/freightpath-driver-app/id1485004257  
 
+
+## 📸 FreightPath Driver App — Rebuild Screenshots (In Progress)
+
+Below are some **UI screens from the next-generation FreightPath Driver App** that I'm currently rebuilding using **React Native + Modular Architecture + AWS backend integration**.  
+These showcase the **modern UI**, improved **driver workflows**, and **optimized performance**.
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center"><img src="./1.png" width="260" /><br/><sub>Dashboard – New Layout</sub></td>
+
+<td align="center"><img src="./2.png" width="260" /><br/><sub>Active Trip View</sub></td>
+
+<td align="center"><img src="./3.png" width="260" /><br/><sub>Stop Details</sub></td>
+</tr>
+
+<tr>
+<td align="center"><img src="./4.png" width="260" /><br/><sub>Status Update Flow</sub></td>
+
+<td align="center"><img src="./5.png" width="260" /><br/><sub>Document Upload</sub></td>
+
+<td align="center"><img src="./6.png" width="260" /><br/><sub>Trip Notes / Messages</sub></td>
+</tr>
+</table>
+
+</div>
+
+
 ### ⭐ 2. Palgeo — Geo-Fencing Attendance App
 ✔ Facial recognition  
 ✔ Geo-fencing  
