@@ -1,11 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=180&section=header&text=Vrushali%20Prajapati&fontSize=42&fontColor=ffffff&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=180&section=header&text=&fontSize=0" />
+
+<h1 align="center">🌊 Vrushali Prajapati</h1>
 
 <h3 align="center">🚀 Senior Mobile Tech Lead | React Native | Android (Kotlin/Java) | Cloud (AWS/Azure)</h3>
 
 <p align="center">
-  <a href="mailto:sonivrushali1234@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/vrushali-prajapati/">LinkedIn</a> •
-  <a href="https://github.com/VrushaliSoni9824">GitHub</a>
+  <a href="mailto:sonivrushali1234@gmail.com"><b>Email</b></a> •
+  <a href="https://www.linkedin.com/in/vrushali-prajapati/"><b>LinkedIn</b></a> •
+  <a href="https://github.com/VrushaliSoni9824"><b>GitHub</b></a>
 </p>
 
 ---
@@ -13,14 +15,14 @@
 ## 👩🏻‍💻 About Me
 I am a **Senior Mobile Application Developer / Tech Lead** with 5+ years of experience building **enterprise-grade mobile applications** using:
 
-- **React Native**
-- **Native Android (Kotlin/Java)**
-- **Kotlin Multiplatform Mobile (KMM)**
-- **AWS & Azure cloud integrations**
-- **Modular & micro-architecture**
-- **CI/CD automation**
+- React Native  
+- Native Android (Kotlin/Java)  
+- Kotlin Multiplatform Mobile (KMM)  
+- AWS & Azure cloud integrations  
+- Modular & micro-architecture  
+- CI/CD automation  
 
-I specialize in designing **scalable mobile architectures**, leading teams, mentoring developers, and delivering applications used by thousands of real-world users. Multiple apps built by me are **live on Google Play and App Store**.
+I specialize in designing **scalable mobile architectures**, optimizing performance, leading teams, mentoring developers, and delivering applications used by thousands of users. Many of my apps are **live on Google Play and App Store**.
 
 ---
 
@@ -38,31 +40,31 @@ React Native, ReactJS (Hooks, Redux, Navigation, Reanimated)
 ### 🗄 Backend
 Node.js, PHP, ASP.NET MVC
 
-### 🧬 Databases
+### 💾 Databases
 MySQL, MongoDB
 
 ### ☁ Cloud & DevOps
-AWS (Lambda, API Gateway, DynamoDB, S3),  
-Azure (Functions, DevOps),  
-CI/CD, GitHub Actions, Jenkins
+AWS (Lambda, API Gateway, DynamoDB, S3)  
+Azure (Functions, DevOps)  
+CI/CD • GitHub Actions • Jenkins
 
 ### 🔧 Tools
-Postman, Firebase, Android Studio, VSC, IntelliJ, Git, JIRA
+Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ---
 
 ## 🚀 Featured Projects (Live)
 
-### ⭐ 1. Palgeo — Geo-Fencing Attendance App  
-✔ Facial recognition attendance  
+### ⭐ 1. Palgeo — Geo-Fencing Attendance App
+✔ Facial recognition  
 ✔ Geo-fencing  
-✔ Offline-first  
+✔ Offline-first architecture  
 📲 **Android:** https://play.google.com/store/search?q=palgeo  
 📲 **iOS:** https://apps.apple.com/in/app/palgeo-geoattendance-app/id1565128142  
 
 ---
 
-### ⭐ 2. ClockTos — Educational App  
+### ⭐ 2. ClockTos — Educational App
 ✔ Real-time GPS bus tracking  
 ✔ Parent notifications  
 ✔ Attendance workflows  
@@ -70,23 +72,23 @@ Postman, Firebase, Android Studio, VSC, IntelliJ, Git, JIRA
 📲 **iOS:** https://apps.apple.com/in/app/clocktos/id1572663673  
 
 ---
+
 ### ⭐ 3. Olympiad Practice App (Naskay)
-✔ Competitive exam practice  
+✔ Competitive practice tests  
 ✔ Timed quizzes  
 ✔ Leaderboards  
-📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice&hl=en  
-📲 **iOS:** https://apps.apple.com/us/app/practido-olympiad-practice/id6746647468
+📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice  
+📲 **iOS:** https://apps.apple.com/us/app/practido-olympiad-practice/id6746647468  
 
 ---
 
 ### ⭐ 4. AI-Proctored Interview Platform
-AI-powered remote interview system  
 ✔ Facial recognition  
-✔ Activity monitoring  
+✔ Behavior monitoring  
 ✔ Safe exam browser  
 ✔ TensorFlow Lite  
-🔗 **Live:** https://assessment.talentigo.ai/admin 
-🔗 **Demo:** https://youtu.be/2muVHD_za0o  
+🔗 **Live:** https://assessment.talentigo.ai/admin  
+🎥 **Demo:** https://youtu.be/2muVHD_za0o  
 
 ---
 
@@ -98,13 +100,13 @@ AI-powered remote interview system
 ### 🔹 Retailz POS — Inventory & Billing  
 📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
 
-### 🔹 Menuonline Remote & Business — Digital Signage Controller 
-📲 https://play.google.com/store/apps/details?id=com.nento.menuonlinebusinesses
-A full-featured Android app for controlling and managing Android TV digital signage. Includes content scheduling, playback control, remote configuration, and real-time updates.
+### 🔹 MenuOnline Remote & Business — Digital Signage Controller 
+📲 https://play.google.com/store/apps/details?id=com.nento.menuonlinebusinesses  
+Cloud-based remote manager for Android TV digital signage. Includes content scheduling, layouts, playback, and real-time configuration.
 
-### 🔹 MenuOnline TV Player — Digital Signage TV App**  
+### 🔹 MenuOnline TV Player — Android TV Digital Signage App  
 📲 https://play.google.com/store/apps/details?id=com.mycirclenet.player.app  
-Cloud-based digital signage player for Android TV. Displays dynamic menus, specials, videos, reviews, and real-time screen content.
+Displays dynamic menus, specials, videos, and promotional content on Android TV digital signage.
 
 ### 🔹 Digital Signage App  
 📲 https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness  
@@ -128,8 +130,8 @@ Cloud-based digital signage player for Android TV. Displays dynamic menus, speci
 
 📧 **Email:** sonivrushali1234@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/vrushali-prajapati  
-🐙 **GitHub:** https://github.com/VrushaliSoni9824
+🐙 **GitHub:** https://github.com/VrushaliSoni9824  
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=120&section=footer&fontSize=0" />
