@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=180&section=header&text=&fontSize=0" />
 
-<h1 align="center">🌊 Vrushali Prajapati</h1>
+<h1 align="center"> Vrushali Prajapati</h1>
 
 <h3 align="center"> Senior Mobile Tech Lead | React Native | Android (Kotlin/Java) | Cloud (AWS/Azure)</h3>
 
