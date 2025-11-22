@@ -76,19 +76,19 @@ These showcase the **modern UI**, improved **driver workflows**, and **optimized
 
 <table>
 <tr>
-<td align="center"><img src="./a1.png" width="260" /><br/></td>
+<td align="center"><img src="./a1.png" width="200" /><br/></td>
 
-<td align="center"><img src="./a2.png" width="260" /><br/></td>
+<td align="center"><img src="./a2.png" width="200" /><br/></td>
 
-<td align="center"><img src="./a3.png" width="260" /><br/></td>
+<td align="center"><img src="./a3.png" width="200" /><br/></td>
 </tr>
 
 <tr>
-<td align="center"><img src="./a4.png" width="260" /><br/></td>
+<td align="center"><img src="./a4.png" width="200" /><br/></td>
 
-<td align="center"><img src="./a5.png" width="260" /><br/></td>
+<td align="center"><img src="./a5.png" width="200" /><br/></td>
 
-<td align="center"><img src="./3.png" width="260" /><br/></td>
+<td align="center"><img src="./3.png" width="200" /><br/></td>
 </tr>
 </table>
 
