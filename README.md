@@ -55,7 +55,18 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ## Featured Projects (Live)
 
-### ⭐ 1. Palgeo — Geo-Fencing Attendance App
+### ⭐ 1. FreightPath Driver App — Enterprise TMS Mobile Application
+✔ Real-time trip management  
+✔ Stop workflow updates  
+✔ Document capture & POD  
+✔ Driver location tracking  
+✔ Offline support  
+✔ Integrated with enterprise TMS backend  
+
+📲 **Android (Legacy):** https://play.google.com/store/apps/details?id=io.freightpath.driverapp&hl=en  
+📲 **iOS (Legacy):** https://apps.apple.com/ca/app/freightpath-driver-app/id1485004257  
+
+### ⭐ 2. Palgeo — Geo-Fencing Attendance App
 ✔ Facial recognition  
 ✔ Geo-fencing  
 ✔ Offline-first architecture  
@@ -64,7 +75,7 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ---
 
-### ⭐ 2. ClockTos — Educational App
+### ⭐ 3. ClockTos — Educational App
 ✔ Real-time GPS bus tracking  
 ✔ Parent notifications  
 ✔ Attendance workflows  
@@ -73,7 +84,7 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ---
 
-### ⭐ 3. Olympiad Practice App (Naskay)
+### ⭐ 4. Olympiad Practice App (Naskay)
 ✔ Competitive practice tests  
 ✔ Timed quizzes  
 ✔ Leaderboards  
@@ -82,7 +93,7 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ---
 
-### ⭐ 4. AI-Proctored Interview Platform
+### ⭐ 5. AI-Proctored Interview Platform
 ✔ Facial recognition  
 ✔ Behavior monitoring  
 ✔ Safe exam browser  
