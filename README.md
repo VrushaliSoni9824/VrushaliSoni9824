@@ -87,6 +87,7 @@ AI-powered remote interview system
 ✔ Timed quizzes  
 ✔ Leaderboards  
 📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice&hl=en  
+📲 **iOS:** https://apps.apple.com/us/app/practido-olympiad-practice/id6746647468
 
 ---
 
