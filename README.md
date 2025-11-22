@@ -88,7 +88,7 @@ These showcase the **modern UI**, improved **driver workflows**, and **optimized
 
 <td align="center"><img src="./a5.png" width="260" /><br/></td>
 
-<td align="center"><img src="./1.png" width="260" /><br/></td>
+<td align="center"><img src="./3.png" width="260" /><br/></td>
 </tr>
 </table>
 
