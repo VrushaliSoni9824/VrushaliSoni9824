@@ -1,83 +1,145 @@
-## Vrushali Prajapati
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:00D4FF&height=180&section=header&text=Vrushali%20Prajapati&fontSize=42&fontColor=ffffff&fontAlignY=35" />
 
-**Full Stack and Mobile Application Developer**
+<h3 align="center">🚀 Senior Mobile Tech Lead | React Native | Android (Kotlin/Java) | Cloud (AWS/Azure)</h3>
 
-Experienced Senior Mobile Application Developer with around 6 years of expertise in Android application
-development using Java and Kotlin. Demonstrated success in designing, developing, and optimizing high-quality,
-scalable Android applications with MVVM and Clean Architecture. Extensive experience in Agile environments,
-leading cross-functional teams, mentoring junior developers, and utilizing modern development practices.
-Expertise in test automation, CI/CD, and cloud technologies to deliver robust and high-performing mobile
-solutions. Successfully participated in the release of multiple apps to Google Play, with several live applications.
-
-## Technical Skills
-- **Mobile Development:** Java, Kotlin, Android Studio, SDK, Kotlin Multiplatform Mobile (KMM), iOS, React Native
-- **Android Frameworks & Tools:** Jetpack, MVVM, Clean Architecture, MVI, Retrofit, OkHttp, Jetpack Compose, Coroutines, Dependency Injection (Dagger/Hilt)
-- **Frontend:** React Native, React JS
-- **Backend:** Node.js, PHP, ASP.NET MVC
-- **Databases:** MySQL, MongoDB
-- **Cloud:** Azure, AWS
-- **Other:** Python, R, IoT, SEO, GIT
-- **DevOps:** CI/CD pipelines, Deployment
-
-## Projects
-
-### Online Interview Process Web Application
-- AI proctoring, TensorFlow, Google Sheets
-- [Staging](https://staginginterview.naskay.in/)
-- [Live](https://talentigo.ai/)
-- [Demo](https://youtu.be/2muVHD_za0o)
-
-### Palgeo’s Geo Fencing App
-- Attendance via facial recognition, Geo-fencing
-- [Android](https://play.google.com/store/search?q=palgeo&c=apps)
-- [iOS](https://apps.apple.com/in/app/palgeo-geoattendance-app/id1565128142)
-
-### ClockTos Educational App
-- Live GPS Transport tracking, Notifications
-- [Android](https://play.google.com/store/search?q=clocktos&c=apps)
-- [iOS](https://apps.apple.com/in/app/clocktos/id1572663673)
-
-### Purie - Fresh Milk Delivery App
-- [Android](https://play.google.com/store/search?q=purie&c=apps)
-- [iOS](https://apps.apple.com/in/app/purie/id1624882655)
-
-### Other Notable Projects
-- [Petrotech POS Software](https://play.google.com/store/apps/details?id=com.posflutter.android)
-- [Digital Signage App](https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness)
-- [Nento POS Software](https://play.google.com/store/apps/details?id=com.tjcg.nentopos)
-- [ESignKart](https://play.google.com/store/apps/details?id=com.esignkart)
-
-## Education
-
-- **Master of Science in Computing and Data Analytics** - Saint Mary’s University, Halifax, NS, Canada 
-- **Master in Computer Application** - UKA Tarsadia University, India (CGPA: 9.28, 2020)
-- **Bachelor in Computer Application** - Veer Narmad South Gujarat University, India (CGPA: 8.5, 2017)
-
-## Certifications
-
-- Certified App Developer - IIHT, Surat (A grade, 2018)
-
-## Contact
-
-Feel free to reach out for collaboration or any inquiries!
-
-[LinkedIn](https://www.linkedin.com/in/vrushali-prajapati) | [Email](mailto:sonivrushali1234@gmail.com)
+<p align="center">
+  <a href="mailto:sonivrushali1234@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/vrushali-prajapati/">LinkedIn</a> •
+  <a href="https://github.com/VrushaliSoni9824">GitHub</a>
+</p>
 
 ---
-*Vrushali Prajapati*
 
+## 👩🏻‍💻 About Me
+I am a **Senior Mobile Application Developer / Tech Lead** with 6+ years of experience building **enterprise-grade mobile applications** using:
 
-<!--
-**VrushaliSoni9824/VrushaliSoni9824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **React Native**
+- **Native Android (Kotlin/Java)**
+- **Kotlin Multiplatform Mobile (KMM)**
+- **AWS & Azure cloud integrations**
+- **Modular & micro-architecture**
+- **CI/CD automation**
 
-Here are some ideas to get you started:
+I specialize in designing **scalable mobile architectures**, leading teams, mentoring developers, and delivering applications used by thousands of real-world users. Multiple apps built by me are **live on Google Play and App Store**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills
+
+### 📱 Mobile Development
+React Native, Kotlin, Java, Android SDK, Jetpack Compose, KMM, iOS, Expo, OTA Updates
+
+### 🧩 Architecture & Patterns
+MVVM, Clean Architecture, MVI, Modular Architecture, Micro-architecture, Dagger/Hilt, Coroutines
+
+### 💻 Frontend
+React Native, ReactJS (Hooks, Redux, Navigation, Reanimated)
+
+### 🗄 Backend
+Node.js, PHP, ASP.NET MVC
+
+### 🧬 Databases
+MySQL, MongoDB
+
+### ☁ Cloud & DevOps
+AWS (Lambda, API Gateway, DynamoDB, S3),  
+Azure (Functions, DevOps),  
+CI/CD, GitHub Actions, Jenkins
+
+### 🔧 Tools
+Postman, Firebase, Android Studio, VSC, IntelliJ, Git, JIRA
+
+---
+
+## 🚀 Featured Projects (Live)
+
+### ⭐ 1. AI-Proctored Interview Platform
+AI-powered remote interview system  
+✔ Facial recognition  
+✔ Activity monitoring  
+✔ Safe exam browser  
+✔ TensorFlow Lite  
+🔗 **Live:** https://talentigo.ai  
+🔗 **Demo:** https://youtu.be/2muVHD_za0o  
+
+---
+
+### ⭐ 2. Palgeo — Geo-Fencing Attendance App  
+✔ Facial recognition attendance  
+✔ Geo-fencing  
+✔ Offline-first  
+📲 **Android:** https://play.google.com/store/search?q=palgeo  
+📲 **iOS:** https://apps.apple.com/in/app/palgeo-geoattendance-app/id1565128142  
+
+---
+
+### ⭐ 3. ClockTos — Educational App  
+✔ Real-time GPS bus tracking  
+✔ Parent notifications  
+✔ Attendance workflows  
+📲 **Android:** https://play.google.com/store/search?q=clocktos  
+📲 **iOS:** https://apps.apple.com/in/app/clocktos/id1572663673  
+
+---
+
+### ⭐ 4. Purie — Fresh Milk Delivery App  
+✔ Subscription billing  
+✔ Route tracking  
+✔ Payment integrations  
+📲 **Android:** https://play.google.com/store/search?q=purie  
+📲 **iOS:** https://apps.apple.com/in/app/purie/id1624882655  
+
+---
+
+### ⭐ 5. Olympiad Practice App (Naskay)
+✔ Competitive exam practice  
+✔ Timed quizzes  
+✔ Leaderboards  
+📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice&hl=en  
+
+---
+
+## 📦 Other Production Apps (Play Store)
+
+### 🔹 MoolahPoints — Cashback & Rewards  
+📲 https://play.google.com/store/apps/details?id=app.moolahpoints  
+
+### 🔹 Retailz POS — Inventory & Billing  
+📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
+
+### 🔹 Petrotech POS  
+📲 https://play.google.com/store/apps/details?id=com.posflutter.android  
+
+### 🔹 Digital Signage App  
+📲 https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness  
+
+### 🔹 Nento POS  
+📲 https://play.google.com/store/apps/details?id=com.tjcg.nentopos  
+
+### 🔹 ESignKart  
+📲 https://play.google.com/store/apps/details?id=com.esignkart  
+
+---
+
+## 🎓 Education
+
+- **M.Sc. Computing & Data Analytics — Saint Mary’s University, Halifax, Canada**  
+- **Master of Computer Applications (CGPA: 9.28)** — UKA Tarsadia University  
+- **Bachelor of Computer Applications (CGPA: 8.5)** — VNSGU  
+
+---
+
+## 🏆 Certifications
+- **Certified App Developer — IIHT (A Grade)**
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** sonivrushali1234@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/vrushali-prajapati  
+🐙 **GitHub:** https://github.com/VrushaliSoni9824
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:0066FF&height=120&section=footer" />
