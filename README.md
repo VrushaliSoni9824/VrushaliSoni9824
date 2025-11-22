@@ -99,14 +99,15 @@ AI-powered remote interview system
 📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
 
 ### 🔹 Menuonline Remote & Business — Digital Signage Controller 
-📲 *(Add Play Store link)*  
+📲 https://play.google.com/store/apps/details?id=com.nento.menuonlinebusinesses
 A full-featured Android app for controlling and managing Android TV digital signage. Includes content scheduling, playback control, remote configuration, and real-time updates.
+
+### 🔹 MenuOnline TV Player — Digital Signage TV App**  
+📲 https://play.google.com/store/apps/details?id=com.mycirclenet.player.app  
+Cloud-based digital signage player for Android TV. Displays dynamic menus, specials, videos, reviews, and real-time screen content.
 
 ### 🔹 Digital Signage App  
 📲 https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness  
-
-### 🔹 Nento POS  
-📲 https://play.google.com/store/apps/details?id=com.tjcg.nentopos  
 
 ---
 
