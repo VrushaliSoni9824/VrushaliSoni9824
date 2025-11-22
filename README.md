@@ -70,8 +70,16 @@ Postman, Firebase, Android Studio, VSC, IntelliJ, Git, JIRA
 📲 **iOS:** https://apps.apple.com/in/app/clocktos/id1572663673  
 
 ---
+### ⭐ 3. Olympiad Practice App (Naskay)
+✔ Competitive exam practice  
+✔ Timed quizzes  
+✔ Leaderboards  
+📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice&hl=en  
+📲 **iOS:** https://apps.apple.com/us/app/practido-olympiad-practice/id6746647468
 
-### ⭐ 3. AI-Proctored Interview Platform
+---
+
+### ⭐ 4. AI-Proctored Interview Platform
 AI-powered remote interview system  
 ✔ Facial recognition  
 ✔ Activity monitoring  
@@ -79,15 +87,6 @@ AI-powered remote interview system
 ✔ TensorFlow Lite  
 🔗 **Live:** https://assessment.talentigo.ai/admin 
 🔗 **Demo:** https://youtu.be/2muVHD_za0o  
-
----
-
-### ⭐ 4. Olympiad Practice App (Naskay)
-✔ Competitive exam practice  
-✔ Timed quizzes  
-✔ Leaderboards  
-📲 **Android:** https://play.google.com/store/apps/details?id=com.naskay.olympiadpractice&hl=en  
-📲 **iOS:** https://apps.apple.com/us/app/practido-olympiad-practice/id6746647468
 
 ---
 
@@ -99,7 +98,7 @@ AI-powered remote interview system
 ### 🔹 Retailz POS — Inventory & Billing  
 📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
 
-🔹 **Menuonline Remote & Business — Digital Signage Controller**  
+### 🔹 Menuonline Remote & Business — Digital Signage Controller 
 📲 *(Add Play Store link)*  
 A full-featured Android app for controlling and managing Android TV digital signage. Includes content scheduling, playback control, remote configuration, and real-time updates.
 
