@@ -2,7 +2,7 @@
 
 <h1 align="center">🌊 Vrushali Prajapati</h1>
 
-<h3 align="center">🚀 Senior Mobile Tech Lead | React Native | Android (Kotlin/Java) | Cloud (AWS/Azure)</h3>
+<h3 align="center"> Senior Mobile Tech Lead | React Native | Android (Kotlin/Java) | Cloud (AWS/Azure)</h3>
 
 <p align="center">
   <a href="mailto:sonivrushali1234@gmail.com"><b>Email</b></a> •
@@ -53,7 +53,7 @@ Postman, Firebase, Android Studio, VS Code, IntelliJ, Git, JIRA
 
 ---
 
-## 🚀 Featured Projects (Live)
+## Featured Projects (Live)
 
 ### ⭐ 1. Palgeo — Geo-Fencing Attendance App
 ✔ Facial recognition  
@@ -127,10 +127,9 @@ Displays dynamic menus, specials, videos, and promotional content on Android TV 
 ---
 
 ## 🤝 Connect With Me
-
-📧 **Email:** sonivrushali1234@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vrushali-prajapati  
-🐙 **GitHub:** https://github.com/VrushaliSoni9824  
+ **Email:** sonivrushali1234@gmail.com  
+ **LinkedIn:** https://www.linkedin.com/in/vrushali-prajapati  
+ **GitHub:** https://github.com/VrushaliSoni9824  
 
 ---
 
