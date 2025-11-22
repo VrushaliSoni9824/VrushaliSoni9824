@@ -53,18 +53,7 @@ Postman, Firebase, Android Studio, VSC, IntelliJ, Git, JIRA
 
 ## 🚀 Featured Projects (Live)
 
-### ⭐ 1. AI-Proctored Interview Platform
-AI-powered remote interview system  
-✔ Facial recognition  
-✔ Activity monitoring  
-✔ Safe exam browser  
-✔ TensorFlow Lite  
-🔗 **Live:** https://talentigo.ai  
-🔗 **Demo:** https://youtu.be/2muVHD_za0o  
-
----
-
-### ⭐ 2. Palgeo — Geo-Fencing Attendance App  
+### ⭐ 1. Palgeo — Geo-Fencing Attendance App  
 ✔ Facial recognition attendance  
 ✔ Geo-fencing  
 ✔ Offline-first  
@@ -73,12 +62,23 @@ AI-powered remote interview system
 
 ---
 
-### ⭐ 3. ClockTos — Educational App  
+### ⭐ 2. ClockTos — Educational App  
 ✔ Real-time GPS bus tracking  
 ✔ Parent notifications  
 ✔ Attendance workflows  
 📲 **Android:** https://play.google.com/store/search?q=clocktos  
 📲 **iOS:** https://apps.apple.com/in/app/clocktos/id1572663673  
+
+---
+
+### ⭐ 3. AI-Proctored Interview Platform
+AI-powered remote interview system  
+✔ Facial recognition  
+✔ Activity monitoring  
+✔ Safe exam browser  
+✔ TensorFlow Lite  
+🔗 **Live:** https://assessment.talentigo.ai/admin 
+🔗 **Demo:** https://youtu.be/2muVHD_za0o  
 
 ---
 
