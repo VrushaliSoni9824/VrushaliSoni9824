@@ -99,9 +99,6 @@ AI-powered remote interview system
 ### 🔹 Retailz POS — Inventory & Billing  
 📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
 
-### 🔹 Petrotech POS  
-📲 https://play.google.com/store/apps/details?id=com.posflutter.android  
-
 ### 🔹 Digital Signage App  
 📲 https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness  
 
