@@ -99,6 +99,10 @@ AI-powered remote interview system
 ### 🔹 Retailz POS — Inventory & Billing  
 📲 https://play.google.com/store/apps/details?id=com.patelprocessing.retailzpos  
 
+🔹 **Menuonline Remote & Business — Digital Signage Controller**  
+📲 *(Add Play Store link)*  
+A full-featured Android app for controlling and managing Android TV digital signage. Includes content scheduling, playback control, remote configuration, and real-time updates.
+
 ### 🔹 Digital Signage App  
 📲 https://play.google.com/store/apps/details?id=com.nento.mycirclebusiness  
 
