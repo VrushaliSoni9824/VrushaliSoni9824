@@ -76,19 +76,18 @@ These showcase the **modern UI**, improved **driver workflows**, and **optimized
 
 <table>
 <tr>
-<td align="center"><img src="./1.png" width="260" /><br/><sub>Dashboard – New Layout</sub></td>
+<td align="center"><img src="./a1.png" width="260" /><br/></td>
 
-<td align="center"><img src="./2.png" width="260" /><br/><sub>Active Trip View</sub></td>
+<td align="center"><img src="./a2.png" width="260" /><br/></td>
 
-<td align="center"><img src="./3.png" width="260" /><br/><sub>Stop Details</sub></td>
+<td align="center"><img src="./a3.png" width="260" /><br/></td>
 </tr>
 
 <tr>
-<td align="center"><img src="./4.png" width="260" /><br/><sub>Status Update Flow</sub></td>
+<td align="center"><img src="./a4.png" width="260" /><br/></td>
 
-<td align="center"><img src="./5.png" width="260" /><br/><sub>Document Upload</sub></td>
+<td align="center"><img src="./a5.png" width="260" /><br/></td>
 
-<td align="center"><img src="./6.png" width="260" /><br/><sub>Trip Notes / Messages</sub></td>
 </tr>
 </table>
 
